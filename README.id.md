@@ -41,4 +41,4 @@ Ekstensi ini bekerja secara otomatis tanpa konfigurasi khusus. Aktivasi terjadi 
 
 ## License
 
-MIT
+[MIT](LICENSE)

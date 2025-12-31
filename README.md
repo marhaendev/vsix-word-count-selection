@@ -41,4 +41,4 @@ This extension works automatically without any special configuration. It activat
 
 ## License
 
-MIT
+[MIT](LICENSE)
