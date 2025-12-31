@@ -1,8 +1,9 @@
 {
     "name": "word-count-selection",
     "displayName": "Word Count Selection",
-    "description": "Menghitung jumlah kata dari teks yang dipilih via Klik Kanan.",
+    "description": "Displays real-time word and character count of selected text in the Status Bar.",
     "version": "0.0.1",
+    "publisher": "marhaendev",
     "author": {
         "name": "MarhaenDev (aka Hasan Askari)",
         "email": "hasanaskari.id@gmail.com",
