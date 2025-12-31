@@ -25,9 +25,7 @@ Ekstensi ini bekerja secara otomatis tanpa konfigurasi khusus. Aktivasi terjadi 
 
 ## Release Notes
 
-### 0.0.1
-- Rilis awal.
-- Fitur penghitung kata dan karakter realtime di status bar.
+Lihat [CHANGELOG.md](CHANGELOG.md)
 
 ---
 

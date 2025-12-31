@@ -25,9 +25,7 @@ This extension works automatically without any special configuration. It activat
 
 ## Release Notes
 
-### 0.0.1
-- Initial release.
-- Realtime word and character counting feature in the status bar.
+See [CHANGELOG.md](CHANGELOG.md)
 
 ---
 
